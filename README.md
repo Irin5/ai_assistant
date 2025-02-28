@@ -1,5 +1,8 @@
 # Проект "ИИ-ассистент SmartBot_Creations по разработке чат-ботов под ключ"
 ссылка на проект - 
+![Скриншот 1].(https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg?raw=true)
+
+
 
 ## Описание проекта
 
