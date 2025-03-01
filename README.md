@@ -6,17 +6,19 @@
 ### 1. **Основные настройки**
 ![Скриншот 1](https://github.com/Irin5/ai_assistant/blob/main/screenshot_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8.jpg?raw=true)
 
-### 2. **Настройки интеграции**
+### 2. **Интеграция с Телеграм и Google-calendar**
 ![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot_%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B81.jpg?raw=true)
 ![Скриншот 3](https://github.com/Irin5/ai_assistant/blob/main/screenshot_%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B82.jpg?raw=true)              
 ![Скриншот 4](https://github.com/Irin5/ai_assistant/blob/main/screenshot_%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8.jpg?raw=true)
 ![Скриншот 5](https://github.com/Irin5/ai_assistant/blob/main/screenshot_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-Google-%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C2.jpg?raw=true)
 
-### 2. **Примеры диалогов**
-![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
-![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
-![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
-![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
+### 2. **Примеры диалогов c ИИ-ассистентом**
+![Скриншот 1](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg?raw=true)
+![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/photo_2025-03-01_12-25-58.jpg?raw=true)
+![Скриншот 3](https://github.com/Irin5/ai_assistant/blob/main/Ola2_photo_2025-03-01_14-16-01.jpg?raw=true)
+![Скриншот 4](https://github.com/Irin5/ai_assistant/blob/main/Ola3_photo_2025-03-01_14-16-01.jpg?raw=true)
+![Скриншот 5](https://github.com/Irin5/ai_assistant/blob/main/Ola4_photo_2025-03-01_14-16-01.jpg?raw=true)
+![Скриншот 6](https://github.com/Irin5/ai_assistant/blob/main/Ola5_photo_2025-03-01_14-16-01.jpg?raw=true)
 
 ## Описание проекта
 
