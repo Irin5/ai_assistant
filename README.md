@@ -1,10 +1,21 @@
 # Проект "ИИ-ассистент SmartBot_Creations по разработке чат-ботов под ключ"
 ссылка на проект - @smartb0tcreations_bot
 
-![Скриншот 1](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
-              
+## Скриншоты проекта
 
+### 1. **Основные настройки**
+![Скриншот 1](https://github.com/Irin5/ai_assistant/blob/main/screenshot_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8.jpg?raw=true)
 
+### 2. **Настройки интеграции**
+![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
+![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)              
+![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
+
+### 2. **Примеры диалогов**
+![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
+![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
+![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
+![Скриншот 2](https://github.com/Irin5/ai_assistant/blob/main/screenshot1_github.jpg)
 
 ## Описание проекта
 
